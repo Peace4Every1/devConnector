@@ -18,7 +18,7 @@ const initState = {
 export default function(state = initState, action) {
   const { type, payload } = action;
 
-  switch (action.type) {
+  switch (type) {
     case REGISTER_SUCCESS:
     case LOGIN_SUCCESS:
       localStorage.setItem("token", payload.token);
