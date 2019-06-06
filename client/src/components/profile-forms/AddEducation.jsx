@@ -97,7 +97,7 @@ const AddEducation = ({ addEducation, history }) => {
               }}
             />
 
-            <label htmlFor="curr">Current Job</label>
+            <label htmlFor="curr">Current School</label>
           </p>
         </div>
         <div className="form-group">
