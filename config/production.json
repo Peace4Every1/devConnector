@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://peace4every1:12345@devconnector-mzszh.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mySecretToken",
+  "githubClientId": "ac2b7ea81462cf6bee4f",
+  "githubSecret": "caac72c88caf42906666d3b6798c0e12d9f2d6aa"
+}
