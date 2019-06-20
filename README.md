@@ -1,7 +1,4 @@
 # DevConnector
-A social network for developers
+A social network for developers made entirely with MERN stack
 
-A full stack application, made entirely with the MERN stack.
-
-
-**Will add further description and installation guide on finish.**
+**Here you can see the live project: ** https://fathomless-sea-88755.herokuapp.com
