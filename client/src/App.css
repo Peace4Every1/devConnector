@@ -21,6 +21,11 @@ body {
   color: #333;
 }
 
+#root {
+  height: auto;
+  overflow: auto;
+}
+
 a {
   color: var(--primary-color);
   text-decoration: none;
